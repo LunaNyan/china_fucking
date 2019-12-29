@@ -1,2 +1,2 @@
-# china_fucking
-blocks all chinese ip in iptables
+# How to execute
+execute `china_fucking.sh` as superuser.
