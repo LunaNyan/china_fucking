@@ -18,6 +18,9 @@ cd china_fucking
 sudo ./china_fucking_iptables.sh
 ```
 
+## 유용한 링크
+[dongtaiwang](http://www.dongtaiwang.com/)
+
 # English
 ## Read before use
 
@@ -38,3 +41,6 @@ git clone https://github.com/lunanyan/china_fucking
 cd china_fucking
 sudo ./china_fucking_iptables.sh
 ```
+
+## Useful links
+[dongtaiwang](http://www.dongtaiwang.com/)
